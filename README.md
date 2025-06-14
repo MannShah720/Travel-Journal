@@ -3,9 +3,10 @@ For this React project, i used a `data.js` file rather than an API just for lear
 - Each object has a ID value
 
 I learnt about the following:
-- Using props for components
+- Using props in components for reusability
 - Passing props to components
 - Destructuring props
-- Using `.map()` to turn data into components for cleaner, declarative code
+- Using `.map()` to turn an array of data into components for cleaner, declarative code
+(typically an API is used but for now i just used the `data.js` file for learning)
 - Using an ID for the key prop
 - Using the spread operator `...entry` to spread key-value pairs in objects as separate props for cleaner code
