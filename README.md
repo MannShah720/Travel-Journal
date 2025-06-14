@@ -6,6 +6,6 @@ I learnt about the following:
 - Using props for components
 - Passing props to components
 - Destructuring props
-- Using .map() to turn data into components for cleaner, declarative code
+- Using `.map()` to turn data into components for cleaner, declarative code
 - Using an ID for the key prop
-- Using the spread operator to spread key-value pairs in objects as separate props for cleaner code
+- Using the spread operator `...entry`to spread key-value pairs in objects as separate props for cleaner code
