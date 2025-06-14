@@ -1,4 +1,4 @@
-For this project, i used a data.js file rather than an API just for learning purposes
+For this React project, i used a data.js file rather than an API just for learning purposes
 - The data.js file contains an array of objects, each one representing one "entry" or location in the travel journal app
 - Each object has a ID value
 
