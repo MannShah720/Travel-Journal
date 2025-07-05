@@ -1,3 +1,6 @@
+# Travel Journal
+## A vacation tracking app
+
 For this React project, i used a `data.js` file rather than an API just for learning purposes
 - The `data.js` file contains an array of objects, each one representing one `entry` (aka location) in the travel journal app
 - Each object has a ID value
