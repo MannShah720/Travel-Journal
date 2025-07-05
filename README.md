@@ -10,6 +10,5 @@ I learnt about the following:
 - Passing props to components
 - Destructuring props
 - Using `.map()` to turn an array of data into components for cleaner, declarative code
-(typically an API is used but for now i just used the `data.js` file for learning)
 - Using an ID for the key prop
 - Using the spread operator `...entry` to spread key-value pairs in objects as separate props for cleaner code
